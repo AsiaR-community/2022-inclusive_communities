@@ -8,7 +8,8 @@ featuring *Heather Turner*, *Yanina Bellini-Saibene*, and *Iman Al-Hasani* bring
 **Date**: Sat, Feb 19, 2022 <br>
 **Time**: 11a UTC | [Check your local time here](https://bit.ly/asiar_feb2022) <br>
 **Location**: Zoom |
-Please [RSVP here](https://forms.gle/YdpiRqRroiTFN6GV6) to receive the Zoom details.
+Please [RSVP here](https://forms.gle/YdpiRqRroiTFN6GV6) to receive the Zoom details. <br>
+**Live notes, Q&A** [here](https://hackmd.io/D0xGLmnlQcuUaJFP7Ai8FA)
 
 ## About the panelists
 **Heather Turner** ...
