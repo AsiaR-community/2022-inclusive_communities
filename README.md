@@ -12,19 +12,19 @@ Please [RSVP here](https://forms.gle/YdpiRqRroiTFN6GV6) to receive the Zoom deta
 **Live notes, Q&A** [here](https://hackmd.io/D0xGLmnlQcuUaJFP7Ai8FA)
 
 ## About the panelists
-**Heather Turner** ...
+**Heather Turner** 
 
 Website: <https://www.heatherturner.net/> <br>
 Twitter: [@HeathrTurnr](https://twitter.com/HeathrTurnr) <br>
 [Presentation material]()
 
-**Yanina Bellini-Saibene** ...
+**Yanina Bellini-Saibene** 
 
 Website: <https://yabellini.netlify.app/> <br>
 Twitter: [@yabellini](https://twitter.com/yabellini) <br>
 [Presentation material]()
 
-**Iman Al-Hasani** ...
+**Iman Al-Hasani** 
 
 Website: [LinkedIn](https://om.linkedin.com/in/iman-al-hasani-23a5b4a8) <br>
 Twitter: [@imanalhasani](https://twitter.com/imanalhasani) <br>
@@ -38,6 +38,6 @@ AsiaR is an organization that aims to bring together and strengthen the Asian R 
 Please fill out the details in this sheet: https://bit.ly/asiar_host_2022*
 
 ## Hosts | How to reach us!
-- Janani Ravi | janani@msu.edu | @Janani137
-- Adithi Upadhya | adithiru095@gmail.com | @AdithiUpadhya
+- Janani Ravi | janani@msu.edu | [@Janani137](https://twitter.com/janani137)
+- Adithi Upadhya | adithiru095@gmail.com | [@AdithiUpadhya](https://twitter.com/AdithiUpadhya)
 - Twitter: [@AsiaR_comm](https://twitter.com/AsiaR_comm) | [GitHub](https://github.com/asiar-community) | [Slack](https://asiar-community.slack.com) [Not on Slack? Sign up here: https://bit.ly/join_asiaR_slack]
