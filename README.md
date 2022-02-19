@@ -14,6 +14,8 @@ Please [RSVP here](https://forms.gle/YdpiRqRroiTFN6GV6) to receive the Zoom deta
 ## About the panelists
 **Heather Turner** 
 
+Heather is a Research Software Engineering Fellow in the Statistics Department at the University of Warwick. She has previously worked as a statistician for Pfizer and as a freelance statistical programming consultant. She has been an R user since 2001 and has co-authored several CRAN packages, notably the statistical modelling packages gnm, BradleyTerry2 and PlackettLuce. In her fellowship, Heather is working on initiatives to improve sustainability and equality, diversity and inclusion in the R project. She leads the R Contribution Working Group, which is a collaboration between the R Core Team and R community groups. Heather is on the board of the R Foundation, a member of the R Foundation Conference Committee and chair of the R Forwards taskforce for underrepresented groups. She is a co-organizer of Warwick R User Group and R-Ladies Remote. 
+
 Website: <https://www.heatherturner.net/> <br>
 Twitter: [@HeathrTurnr](https://twitter.com/HeathrTurnr) <br>
 [Presentation material]()
