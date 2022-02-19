@@ -19,10 +19,11 @@ Twitter: [@HeathrTurnr](https://twitter.com/HeathrTurnr) <br>
 [Presentation material]()
 
 **Yanina Bellini-Saibene** 
+Bio: R-Ladies Global and Leadership Team member, and R-Ladies Santa Rosa organizer. R-Ladies Project Lead ISC RConsortium Group. The Carpentries Executive Council member, Trainer, and Instructor. LatinR Conference founder, and chair. MetaDocencia founder and, Core-TEam. RForwards Core Team, and Conference Team Lead. RStudio Instructor, and Examiner. T3 Translation Lead, and Spanish Editor. Researcher at INTA. Professor at UNAB.
 
 Website: <https://yabellini.netlify.app/> <br>
 Twitter: [@yabellini](https://twitter.com/yabellini) <br>
-[Presentation material]()
+[Presentation material](https://docs.google.com/presentation/d/1ipG6A3QFQf6hInO3-qUgfkcPfzQ8s82jc5Fyir3vRVI/edit?usp=sharing)
 
 **Iman Al-Hasani** 
 
