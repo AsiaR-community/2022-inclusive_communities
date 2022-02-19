@@ -21,7 +21,8 @@ Twitter: [@HeathrTurnr](https://twitter.com/HeathrTurnr) <br>
 [Presentation material](https://www.heatherturner.net/talks/asiarpanel2022/)
 
 **Yanina Bellini-Saibene** 
-Bio: R-Ladies Global and Leadership Team member, and R-Ladies Santa Rosa organizer. R-Ladies Project Lead ISC RConsortium Group. The Carpentries Executive Council member, Trainer, and Instructor. LatinR Conference founder, and chair. MetaDocencia founder and, Core-TEam. RForwards Core Team, and Conference Team Lead. RStudio Instructor, and Examiner. T3 Translation Lead, and Spanish Editor. Researcher at INTA. Professor at UNAB.
+
+R-Ladies Global and Leadership Team member, and R-Ladies Santa Rosa organizer. R-Ladies Project Lead ISC RConsortium Group. The Carpentries Executive Council member, Trainer, and Instructor. LatinR Conference founder, and chair. MetaDocencia founder and, Core-TEam. RForwards Core Team, and Conference Team Lead. RStudio Instructor, and Examiner. T3 Translation Lead, and Spanish Editor. Researcher at INTA. Professor at UNAB.
 
 Website: <https://yabellini.netlify.app/> <br>
 Twitter: [@yabellini](https://twitter.com/yabellini) <br>
