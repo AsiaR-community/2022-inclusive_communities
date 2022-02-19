@@ -27,9 +27,14 @@ Twitter: [@yabellini](https://twitter.com/yabellini) <br>
 
 **Iman Al-Hasani** 
 
+Iman Al Hasani is a lecturer at the Department of Statistics at Sultan Qaboos University (SQU), Oman.  
+She earned her BSc degree in Statistics from SQU, MSc in Statistics from Warwick University (UK) and PhD in Applied Statistics from Durham University (UK).
+She is interested in computational applied statistics including:  computational statistics, statistics in digital marketing, statistical modelling, statistical machine learning, simulation, data mining and data visualization.  She is proficient with R, and has experience in teaching R. She is co-organizer of ArabR, R-Ladies Muscat, Global R Users and the organizer of Oman R users.
+
 Website: [LinkedIn](https://om.linkedin.com/in/iman-al-hasani-23a5b4a8) <br>
 Twitter: [@imanalhasani](https://twitter.com/imanalhasani) <br>
-[Presentation material]()
+[Presentation material](https://docs.google.com/presentation/d/1M3mZFuXQir5zeynLcwG6NHsA3yjkJhhC-uQ7pqg7HyM/edit?usp=sharing)
+
 
 
 ## About AsiaR
