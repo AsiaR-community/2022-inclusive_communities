@@ -35,7 +35,7 @@ She is interested in computational applied statistics including:  computational 
 
 Website: [LinkedIn](https://om.linkedin.com/in/iman-al-hasani-23a5b4a8) <br>
 Twitter: [@imanalhasani](https://twitter.com/imanalhasani) <br>
-[Presentation material](https://docs.google.com/presentation/d/1M3mZFuXQir5zeynLcwG6NHsA3yjkJhhC-uQ7pqg7HyM/edit?usp=sharing)
+[Presentation material](https://zenodo.org/record/6159437#.YhC565NBy3J)
 
 
 
